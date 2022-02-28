@@ -5,22 +5,24 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
-
+[Github Profile](https://github.com/Nithyashree-coder)
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+## Text Pre-processing
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Developed a solution that automates text pre-processing in nlp models where lemmatization, stemming and other text preprocessing parts are automated. Helped organization by automating data cleaning process for NLP projects. 
 
-## Header 2
+## Insurance Agent chatbot
+Developed a solution for booking appointment using DialogFlow Google assistant for Insurance Agent.
+ 
+## Insurance Agent chatbot
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> Developed a solution for booking appointment using DialogFlow Google assistant for Insurance Agent.
 
-### Header 3
+
+## Header 3
 
 ```js
 // Javascript code with syntax highlighting.
