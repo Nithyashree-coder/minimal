@@ -1,6 +1,6 @@
 title: Minimal theme
 logo: /assets/img/logo.jpg
 description: Hello this is Nithyashree Ravi. I am a data science enthusiast. I have 1.5 years of experience in data science. 
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
