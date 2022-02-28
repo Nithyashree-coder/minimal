@@ -14,10 +14,10 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 Developed a solution that automates text pre-processing in nlp models where lemmatization, stemming and other text preprocessing parts are automated. Helped organization by automating data cleaning process for NLP projects. 
 
-## Insurance Agent chatbot
+## Insurance Agent Chatbot
 Developed a solution for booking appointment using DialogFlow Google assistant for Insurance Agent.
  
-## Insurance Agent chatbot
+## Insurance Agent Chatbot
 
 > Developed a solution for booking appointment using DialogFlow Google assistant for Insurance Agent.
 
